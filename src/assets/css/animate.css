@@ -1,0 +1,7 @@
+:root {
+    --animate-delay: 0s;
+}
+
+.animate__animated {
+    --animate-duration: .5s;
+}
